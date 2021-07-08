@@ -1,2 +1,2 @@
 # MasterDEV
-Para ejercicios del Master en Desarrollo de DEV.F
+Ejercicios del Master en Desarrollo de DEV.F
