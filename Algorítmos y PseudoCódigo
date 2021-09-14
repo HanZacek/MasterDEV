@@ -1,0 +1,27 @@
+Algoritmo: Sumar a + b
+inicio
+  Escribir 'a'
+  leer a
+  Escribir 'b'
+  leer b
+  retornar a + b
+  imprimir 4, 5
+fin
+
+Algoritmo: Simple Array Sum
+inicio
+  variable array = {5, 2, 7, 6{
+  variable suma = 0
+  (for) 
+    variable i = 0; 
+    i < largo del array; 
+    sumar i + i
+      suma = Array i + largo del array
+  (fin for)
+  imprimir suma
+fin
+
+Algoritmo: Compare the Triplets
+inicio
+
+
